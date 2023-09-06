@@ -20,12 +20,6 @@ Neuramap is a Flutter project that helps users with [brief description of what y
     <img src="Screenshots/progress.jpeg" width="30%" alt="Progress Screen">
     <img src="Screenshots/graph.jpeg" width="30%" alt="Graph Screen">
 </div>
-This code creates three rows, each containing three images. Adjust the width attribute as needed to control the size of the images in your grid.
-
-
-
-
-
 
 
 ## Getting Started
