@@ -4,14 +4,29 @@ Neuramap is a Flutter project that helps users with [brief description of what y
 
 ## Screenshots
 
-![Login Screen](Screenshots/login.jpeg)
-![Signup Screen](Screenshots/signup.jpeg)
-![Forgot Password Screen](Screenshots/forgot.jpeg)
-![Welcome Screen](Screenshots/welcome.jpeg)
-![Home Screen](Screenshots/home.jpeg)
-![Question Screen](Screenshots/question.jpeg)
-![Progress Screen](Screenshots/progress.jpeg)
-![graph Screen](Screenshots/graph.jpeg)
+<div align="center">
+    <img src="Screenshots/login.jpeg" width="30%" alt="Login Screen">
+    <img src="Screenshots/signup.jpeg" width="30%" alt="Signup Screen">
+    <img src="Screenshots/forgot.jpeg" width="30%" alt="Forgot Password Screen">
+</div>
+
+<div align="center">
+    <img src="Screenshots/welcome.jpeg" width="30%" alt="Welcome Screen">
+    <img src="Screenshots/home.jpeg" width="30%" alt="Home Screen">
+    <img src="Screenshots/question.jpeg" width="30%" alt="Question Screen">
+</div>
+
+<div align="center">
+    <img src="Screenshots/progress.jpeg" width="30%" alt="Progress Screen">
+    <img src="Screenshots/graph.jpeg" width="30%" alt="Graph Screen">
+</div>
+This code creates three rows, each containing three images. Adjust the width attribute as needed to control the size of the images in your grid.
+
+
+
+
+
+
 
 ## Getting Started
 
@@ -30,3 +45,16 @@ Make sure you have the following installed:
 
    ```bash
    git clone https://github.com/LostParadise07/Neramap.git
+   ```
+2. Navigate to the project folder:
+   ```bash
+   cd Neramap
+   ```
+3. Install dependencies:
+   ```bash
+   flutter pub get
+   ```
+4. Usage:
+   ```bash
+   flutter run
+   ```
