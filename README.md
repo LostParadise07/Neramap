@@ -1,3 +1,3 @@
 # Neuramap
-###Screenshot
-<img src="screenshot/login.jpeg">
+Screenshot
+<img src="Screenshots/login.jpeg">
