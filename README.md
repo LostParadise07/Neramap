@@ -8,6 +8,8 @@ Neuramap is a Flutter project that helps users with [brief description of what y
 ![Signup Screen](Screenshots/signup.jpeg)
 ![Forgot Password Screen](Screenshots/forgot.jpeg)
 ![Welcome Screen](Screenshots/welcome.jpeg)
+![Home Screen](Screenshots/home.jpeg)
+![Question Screen](Screenshots/question.jpeg)
 ![Progress Screen](Screenshots/progress.jpeg)
 ![graph Screen](Screenshots/graph.jpeg)
 
