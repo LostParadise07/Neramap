@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "654611573648",
+    "project_id": "neuramap-8b66c",
+    "storage_bucket": "neuramap-8b66c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654611573648:android:1c1b13bdc9f982c0982115",
+        "android_client_info": {
+          "package_name": "com.example.flutter_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "654611573648-9pkuhul7jog7lm5q9lfbct1suub1ju07.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDG8L_EHYvBuv6KO9v4vTDAI9tU4T-20aY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "654611573648-9pkuhul7jog7lm5q9lfbct1suub1ju07.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "654611573648-krctgifvpucn463uop5ras7pdjv71m0q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.neuramap.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
