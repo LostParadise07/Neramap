@@ -39,3 +39,16 @@ Make sure you have the following installed:
 
    ```bash
    git clone https://github.com/LostParadise07/Neramap.git
+   ```
+2. Navigate to the project folder:
+   ```bash
+   cd Neramap
+   ```
+3. Install dependencies:
+   ```bash
+   flutter pub get
+   ```
+4. Usage:
+   ```bash
+   flutter run
+   ```
